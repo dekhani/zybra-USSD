@@ -1,6 +1,6 @@
 # ZySwitch – USSD DeFi Wallet on Celo
 
-ZySwap enables USSD-based DeFi access on the Celo blockchain using smart contract wallets, mobile money integration, and meta-transaction relaying.
+ZySwitch enables USSD-based DeFi access on the Celo blockchain using smart contract wallets, mobile money integration, and meta-transaction relaying.
 
 ## Features
 - Smart Wallet Factory (Solidity)
